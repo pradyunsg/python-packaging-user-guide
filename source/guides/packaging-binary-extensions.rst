@@ -5,7 +5,7 @@ Packaging binary extensions
 ===========================
 
 :Page Status: Incomplete
-:Last Reviewed: 2013-12-08
+:Last Reviewed: 2018-06-21
 
 One of the features of the CPython reference interpreter is that, in
 addition to allowing the execution of Python code, it also exposes a rich
